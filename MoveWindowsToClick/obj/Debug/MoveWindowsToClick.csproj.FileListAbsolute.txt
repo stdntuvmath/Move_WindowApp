@@ -1,0 +1,8 @@
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\obj\Debug\MoveWindow.Form1.resources
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\obj\Debug\MoveWindowsToClick.Properties.Resources.resources
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\obj\Debug\MoveWindowsToClick.csproj.GenerateResource.cache
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\bin\Debug\MoveWindows.exe.config
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\bin\Debug\MoveWindows.exe
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\bin\Debug\MoveWindows.pdb
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\obj\Debug\MoveWindows.exe
+C:\Users\14025\source\repos\MoveWindowsToClick\MoveWindowsToClick\obj\Debug\MoveWindows.pdb
